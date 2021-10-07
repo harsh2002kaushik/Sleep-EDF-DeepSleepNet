@@ -7,4 +7,4 @@
 # explain dataset, perform analysis
 # explain processing of data in detail
 # explain the findings
-# add alist of all the data included
+# add alist of all the people number included
