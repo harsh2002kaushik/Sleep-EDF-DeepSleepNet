@@ -5,7 +5,9 @@
 ## Findings from the dataset: 
 * More than 50% times the person was awake, and while sleeping S2, ReM are more common to occur
 * In Power spectral density plot of epochs grouped by sleeping stage, different sleep stages have different sigenatures but these remain same accross different datasets
-*  
+
+![_2](https://user-images.githubusercontent.com/71460180/136506790-a46353c6-3670-4ac2-b9fc-2a8851d2c1b8.png)
+
 ## Model
 The model used for training was deepsleepnet,which automatates the process of sleep stage based on raw, single channel EEG
 link: https://github.com/akaraspt/deepsleepnet 
