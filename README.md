@@ -20,4 +20,7 @@ Steps taken while preprocessing the data and assumptions:
 evaluations:
 * training_accuracy: 0.883
 * test_accuracy: 0.8257
-
+* Order for the follwing values: [Sleep stage W, Sleep stage 1, Sleep stage 2, Sleep stage 3/4, Sleep stage REM]
+* Precison : [0.93, 0.43, 0.84, 0.68, 0.76]
+* Recall : [0.89, 0.53, 0.80, 0.81, 0.79]
+* F1:  [0.91, 0.47, 0.82, 0.74, 0.77]
