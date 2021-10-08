@@ -18,8 +18,6 @@ Steps taken while preprocessing the data and assumptions:
 * Excluded MOVEMENT and UNKNOWN (which were at the start or the end of the each recording) stages, as they did not belong to the five sleep stages and had little relevance
 ## Evaluation
 evaluations:
-* metrices used for evaluations are:
-* training_accuracy:
-* test_accuracy:
-* graphs if any
+* training_accuracy: 0.883
+* test_accuracy: 0.8257
 
