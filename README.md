@@ -1,5 +1,6 @@
 # Sleep-EDF-DeepSleepNet
 * Dataset used was Sleep-EDF dataset  it contained more than 8 gb of data out of which used around 500 mb data and has around 20 peoples data from age effects on healty person(SC) dataset for vizualization and training purposes
+![_1](https://user-images.githubusercontent.com/71460180/136506370-bc4935d4-3949-44f8-bcb5-391c509ccf41.png)
 
 ## Findings from the dataset: 
 * More than 50% times the person was awake, and while sleeping S2, ReM are more common to occur
