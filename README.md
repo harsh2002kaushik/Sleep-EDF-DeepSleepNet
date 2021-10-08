@@ -20,4 +20,3 @@ evaluations:
 * test_accuracy:
 * graphs if any
 
-### explain what codes to run to get the results
